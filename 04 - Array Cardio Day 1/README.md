@@ -1,5 +1,5 @@
 # Day 04 Array Cardio Part1
-
+- [codepen](https://codepen.io/elenachien/pen/OJmXLPQ)
 - 用幾個小題目練習 array method
 
 ### 1. Filter the list of inventors for those who were born in the 1500's

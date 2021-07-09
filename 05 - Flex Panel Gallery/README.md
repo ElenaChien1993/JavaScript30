@@ -1,5 +1,5 @@
 # Day 05 Flex Panels Image Gallery
-
+- [codepen](https://codepen.io/elenachien/pen/NWjrzyE)
 - 用 CSS 做出漂亮的 Gallery
 
 ## 老師初版 CSS 我看不懂的語法

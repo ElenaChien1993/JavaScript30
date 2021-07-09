@@ -1,5 +1,5 @@
 # Day 03 Playing with CSS Variables and JS
-
+- [codepen](https://codepen.io/elenachien/pen/bGWpqxM)
 - 製作調整器可以調整 space / blur / color
     1. 製作 css 變數
     2. 使用 JS 在 css 變數上面

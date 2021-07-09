@@ -1,4 +1,5 @@
 # Day 02 CSS + JS Clock
+- [codepen](https://codepen.io/elenachien/pen/xxdZOov?editors=1111)
 * 讓時針、分針、秒針跟著實際的時間運行移動
   1. 讓三個針都使用 transform & transition
   2. `setInterval` 套用到實際時間軸上
